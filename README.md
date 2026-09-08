@@ -92,10 +92,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=siddheshgire&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=siddheshgire&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=siddheshgire&theme=onedark&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ## 🐍 Contribution Graph
 
